@@ -28,6 +28,11 @@
 ### 2. DNS-over-HTTPS (DoH)
 适用于 Chrome、Edge 浏览器、iOS、Android 13+ 以及各种现代化终端。具有极高的安全性和隐蔽性。
 
+### **🍎 苹果设备 (iOS / macOS)**
+推荐下载描述文件实现系统级接入（无需 App）：
+> [📥 点击下载 Apple 配置描述文件](https://www.123865.com/s/0Wm2jv-6fRw)
+* **安装步骤**：下载后前往 `设置` -> `已下载描述文件` -> `安装`，然后在 `设置` -> `通用` -> `VPN与设备管理` -> `DNS` 中选择 **JiLinDNS**。
+
 * **配置 URL**: 
   `https://dns.625674.xyz/dns-query`
 
